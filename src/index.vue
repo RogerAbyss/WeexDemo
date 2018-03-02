@@ -2,7 +2,7 @@
   <div class="wrapper">
     <image :src="logo" class="logo"></image>
     <text class="greeting">Abyss</text>
-    <text class="message">现在开始学习Weex吧!</text>
+    <text class="message">Hello Weex!</text>
   </div>
 </template>
 
@@ -10,7 +10,7 @@
   export default {
     data () {
       return {
-        logo: 'https://gitee.com/rogerabyss/Assert/raw/master/CI/cat.png',
+        logo: 'https://gitee.com/rogerabyss/Assert/raw/master/CI/life.jpg',
       }
     }
   }

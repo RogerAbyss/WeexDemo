@@ -163,7 +163,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = {
   data: function data() {
     return {
-      logo: 'https://gitee.com/rogerabyss/Assert/raw/master/CI/cat.png'
+      logo: 'https://gitee.com/rogerabyss/Assert/raw/master/CI/life.jpg'
     };
   }
 };
@@ -184,7 +184,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: ["greeting"]
   }, [_vm._v("Abyss")]), _c('text', {
     staticClass: ["message"]
-  }, [_vm._v("现在开始学习Weex吧!")])])
+  }, [_vm._v("Hello Weex!")])])
 },staticRenderFns: []}
 module.exports.render._withStripped = true
 
